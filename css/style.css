@@ -28,3 +28,12 @@ header .logo{
 .highlighted {
   background-color: yellow;
 }
+.monitor {
+  background-image: url(../img/monitor.jpg);
+  color: white;
+  width: 100%;
+}
+.grafica {
+  background-image: url(../img/graph.jpg);
+  color: white;
+}
